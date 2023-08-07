@@ -5,6 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Column;
 
+
 public class Task {
 	@Id
     @Column
